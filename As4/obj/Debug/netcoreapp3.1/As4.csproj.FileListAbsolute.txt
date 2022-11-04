@@ -1,0 +1,13 @@
+/Users/kiwi/Projects/As4/As4/bin/Debug/netcoreapp3.1/As4.deps.json
+/Users/kiwi/Projects/As4/As4/bin/Debug/netcoreapp3.1/As4.runtimeconfig.json
+/Users/kiwi/Projects/As4/As4/bin/Debug/netcoreapp3.1/As4.runtimeconfig.dev.json
+/Users/kiwi/Projects/As4/As4/bin/Debug/netcoreapp3.1/As4.dll
+/Users/kiwi/Projects/As4/As4/bin/Debug/netcoreapp3.1/As4.pdb
+/Users/kiwi/Projects/As4/As4/obj/Debug/netcoreapp3.1/As4.csproj.AssemblyReference.cache
+/Users/kiwi/Projects/As4/As4/obj/Debug/netcoreapp3.1/As4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiwi/Projects/As4/As4/obj/Debug/netcoreapp3.1/As4.AssemblyInfoInputs.cache
+/Users/kiwi/Projects/As4/As4/obj/Debug/netcoreapp3.1/As4.AssemblyInfo.cs
+/Users/kiwi/Projects/As4/As4/obj/Debug/netcoreapp3.1/As4.csproj.CoreCompileInputs.cache
+/Users/kiwi/Projects/As4/As4/obj/Debug/netcoreapp3.1/As4.dll
+/Users/kiwi/Projects/As4/As4/obj/Debug/netcoreapp3.1/As4.pdb
+/Users/kiwi/Projects/As4/As4/obj/Debug/netcoreapp3.1/As4.genruntimeconfig.cache

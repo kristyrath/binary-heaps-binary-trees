@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B5F425A7-5228-4DEC-B3D3-6C41188B4EE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="As4/Program.cs">
+    <Files>
+      <File FileName="As4/BinarySearchTree.cs" Line="35" Column="1" />
+      <File FileName="As4/Animal.cs" Line="2" Column="1" />
+      <File FileName="As4/Cat.cs" Line="11" Column="20" />
+      <File FileName="As4/Program.cs" Line="110" Column="1" />
+      <File FileName="As4/Snake.cs" Line="14" Column="22" />
+      <File FileName="As4/BinaryHeap.cs" Line="116" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="As4" expanded="True">
+            <Node name="As4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.As4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

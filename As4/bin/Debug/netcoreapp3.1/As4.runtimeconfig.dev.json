@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kiwi/.dotnet/store/|arch|/|tfm|",
+      "/Users/kiwi/.nuget/packages"
+    ]
+  }
+}
